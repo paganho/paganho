@@ -1,6 +1,5 @@
 # Hi there, I'm paganho 👋
-
-Roblox Community Manager, Safety Lead & Venue Operations Specialist focused on staff supervision, server moderation, and building robust community management workflows.
+ Community Manager, Safety Lead & Venue Operations Specialist focused on staff supervision, server moderation, and building robust community management workflows.
 
 ### 🛡️ Moderation & Operations Focus
 - **Live Staff & Venue Moderation:** Enforcing community guidelines, managing high-traffic virtual venues, and maintaining player safety.
