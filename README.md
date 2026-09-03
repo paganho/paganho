@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm paganho 👋
 
-<!--
-**paganho/paganho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Roblox Community Manager, Venue Operations Lead & UI/UX Specialist passionate about creating immersive virtual experiences, staff systems, and clean front-end interfaces.
 
-Here are some ideas to get you started:
+### 🎮 Roblox Experience & Focus
+- **Operations & Management:** Experience in staff hiring, venue management, and workflow structure (Assistant Manager, HR Management, Team Lead roles).
+- **Interface & Graphic Design:** Crafting clean UI layouts and hand-drawn digital branding for virtual venues and games.
+- **Projects & Technicals:** Developing backend automation tools and web dashboards to support project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Design & UI:** Digital Illustration, Interface Mockups, HTML5, CSS3
+- **Development & Scripting:** Python, Lua basics, Git, GitHub
+- **Management:** Staff Scheduling, Operations Systems, Workflow Optimization
+
+### 📂 Featured Repositories
+- **[Task Automation CLI](https://github.com/paganho/task-automation-cli):** A modular Python CLI tool for batch processing and workflow automation.
+- **[Analytics Dashboard UI](https://github.com/paganho/analytics-dashboard-ui):** A responsive web dashboard layout built with HTML/CSS.
+
+---
+⚡ *Building seamless experiences—from community venues to clean code.*
+
