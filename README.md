@@ -1,21 +1,23 @@
 # Hi there, I'm paganho 👋
 
-Roblox Community Manager, Venue Operations Lead & UI/UX Specialist passionate about creating immersive virtual experiences, staff systems, and clean front-end interfaces.
+Roblox Community Manager, Safety Lead & Venue Operations Specialist focused on staff supervision, server moderation, and building robust community management workflows.
 
-### 🎮 Roblox Experience & Focus
-- **Operations & Management:** Experience in staff hiring, venue management, and workflow structure (Assistant Manager, HR Management, Team Lead roles).
-- **Interface & Graphic Design:** Crafting clean UI layouts and hand-drawn digital branding for virtual venues and games.
-- **Projects & Technicals:** Developing backend automation tools and web dashboards to support project management.
+### 🛡️ Moderation & Operations Focus
+- **Live Staff & Venue Moderation:** Enforcing community guidelines, managing high-traffic virtual venues, and maintaining player safety.
+- **Staff Oversight & Management:** Leading shifts, training moderation teams, and managing incident reports.
+- **Tooling & Automation:** Utilizing custom bots, Open Cloud APIs, and administrative scripts for cross-server moderation and automated safety enforcement.
 
 ### 🛠️ Tech Stack & Tools
-- **Design & UI:** Digital Illustration, Interface Mockups, HTML5, CSS3
-- **Development & Scripting:** Python, Lua basics, Git, GitHub
-- **Management:** Staff Scheduling, Operations Systems, Workflow Optimization
+- **Community & Safety:** Discord Administration, Trello/Notion Workflows, Incident Logging, Policy Enforcement
+- **Technical & Scripting:** Python, Lua Basics, HTML5/CSS3, Git, GitHub
+- **Moderation Tools:** Admin Modules, Automated Logging, Audit Trails, Ban/Kick Systems
 
-### 📂 Featured Repositories
+### 📂 Featured Work & Repositories
+- **[Roblox Cross-Server Moderation Engine](https://github.com/paganho/roblox-cross-server-moderation):** A Python script interfacing with Roblox Open Cloud APIs for real-time ban/kick syncing across game servers.
 - **[Task Automation CLI](https://github.com/paganho/task-automation-cli):** A modular Python CLI tool for batch processing and workflow automation.
-- **[Analytics Dashboard UI](https://github.com/paganho/analytics-dashboard-ui):** A responsive web dashboard layout built with HTML/CSS.
+- **[Analytics Dashboard UI](https://github.com/paganho/analytics-dashboard-ui):** A responsive, dark-mode web dashboard layout built with HTML5 and CSS3.
 
 ---
-⚡ *Building seamless experiences—from community venues to clean code.*
+⚡ *Dedicated to keeping online communities safe, active, and well-managed.*
+
 
